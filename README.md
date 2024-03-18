@@ -6,6 +6,9 @@ you are free to create any other files,
 
 **just make sure your final answers all in `App.jsx`**
 
+### submit your answer
+Make a git repo to timtan, BillyPJChen to your private repo.
+
 ## Run the project
 
 ```
