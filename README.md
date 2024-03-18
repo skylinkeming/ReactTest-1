@@ -7,7 +7,8 @@ you are free to create any other files,
 **just make sure your final answers all in `App.jsx`**
 
 ### submit your answer
-Make a git repo to `timtan`, `BillyPJChen` to your private repo.
+Create a git repo for `timtan`, `BillyPJChen` and add them into your private repo.
+
 
 ## Run the project
 
